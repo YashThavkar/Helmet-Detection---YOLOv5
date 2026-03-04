@@ -20,10 +20,8 @@ python livehelmet1.py --output images/myvideo.avi --yolo yolo-coco/
 
 
 If you like the code , you can take a minute to endorse me here
-https://www.linkedin.com/in/ayazsaiyadhearthacker/
+https://www.linkedin.com/in/yashthavkar/
 
 -------------------------
 You will need the weights file, which i have not uploaded here, if needed you can ping me on linkedin.
 -------------------------
-
-```Contact - https://theayazsaiyed.ml```
